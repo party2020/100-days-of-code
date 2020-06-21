@@ -10,22 +10,19 @@
 **Link to work:** repository https://github.com/party2020/justbeginagain.git
 
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 1: 6.20.20
+##### (sadderday) if you dare to struggle you dare to win. if you dare not struggle then damn it you don't deserve to win.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: /tribute page +repository continuation ..found img asset ..created tribute repository ..clone/status/add/status/commit/push ..enhanced wireframe +html template
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: grateful for just beginning again.. family {household gooofiness +hillarity hijinks &itsmeb!} books learning discernment [critical thinking 101] safety security surroundings {HOME!} gadgets +amenities {f1/dji/mac/apple/ps4/league pass} ..loving emmet git terminal & where its taking me ..eager ..got caught up in errands adventures shopping trips fathers day cookouts +seafood feasts &sunrise spacex 
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: https://github.com/party2020/tributePage/blob/master/tribute.html
 
+### Day 2: 6.21.20 sonday (daddies w/ daughters day)
 
-### Day 1: June 27, Monday
+**Today's Progress**: ... not sure - reading +site completion
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Thoughts**: grateful {soon to be daddy wu love the kids.beaches.$.safe.19.accts.$btc.investing.early mornings.late nites.lookin good.not cracking} ... exposure education empowerment ... <code id="'iqra">#100.msced.physical.zen</code>
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link(s) to work**: ...
