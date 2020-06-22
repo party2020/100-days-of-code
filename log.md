@@ -15,14 +15,17 @@
 
 **Today's Progress**: /tribute page +repository continuation ..found img asset ..created tribute repository ..clone/status/add/status/commit/push ..enhanced wireframe +html template
 
-**Thoughts**: grateful for just beginning again.. family {household gooofiness +hillarity hijinks &itsmeb!} books learning discernment [critical thinking 101] safety security surroundings {HOME!} gadgets +amenities {f1/dji/mac/apple/ps4/league pass} ..loving emmet git terminal & where its taking me ..eager ..got caught up in errands adventures shopping trips fathers day cookouts +seafood feasts &sunrise spacex 
+**Thoughts**: grateful for just beginning again.. family {household gooofiness +hillarity hijinks &itsmeb! +learning from felson about smooth buddy bball!} books learning discernment [critical thinking 101] safety security surroundings {HOME!} gadgets +amenities {f1/dji/mac/apple/ps4/league pass} ..loving emmet git terminal & where its taking me ..eager ..got caught up in errands adventures shopping trips fathers day cookouts +seafood feasts &sunrise spacex 
 
 **Link(s) to work**: https://github.com/party2020/tributePage/blob/master/tribute.html
 
+
 ### Day 2: 6.21.20 sonday (daddies w/ daughters day)
 
-**Today's Progress**: ... not sure - reading +site completion
+**Today's Progress**: ... not sure /goal (pre)- reading +site completion /actual (post)- site additions +reading +background
 
-**Thoughts**: grateful {soon to be daddy wu love the kids.beaches.$.safe.19.accts.$btc.investing.early mornings.late nites.lookin good.not cracking} ... exposure education empowerment ... <code id="'iqra">#100.msced.physical.zen</code>
+**Thoughts**: grateful {soon to be daddy wu love the kids.beaches.$.safe.19.accts.$btc.investing.early mornings.late nites.lookin good.not cracking} ... exposure education empowerment ... <code id="'iqra">#100.msced.physical.zen</code> ...didnt code enough /beach day +pier jumping +boardwalking +jalapeño george clooney juice sipping /it wasn't awful tho!... crook in my neck is however.. studied emmet syntax.. researched for <div id=facts>.. added img src +img caption +"blockquote" ...all on coda mobile ..add/commit/push was a non cypher.. day was lovely ..coney island beach nxt up?!... working they distractions & sidetracks & the <b>s</b>
 
-**Link(s) to work**: ...
+**Link(s) to work**: ... N/A 
+
+USE SAME TEMPLATE|GUIDELINE FROM DAY 0
