@@ -29,3 +29,16 @@
 **Link(s) to work**: ... N/A 
 
 USE SAME TEMPLATE|GUIDELINE FROM DAY 0
+
+
+### Day 3: 6.22.20 monday ()
+
+**Today's Progress**: ... freestyles some css +content
+
+**Thoughts**: grateful {soon to be daddy wu love the kids.beaches.$.safe.19.accts.$btc.investing.early mornings.late nites.lookin good.not cracking} ... exposure education empowerment ... <code id="'iqra">#100.msced.physical.zen</code> ...didnt code enough /beach day +pier jumping +boardwalking +jalapeño george clooney juice sipping /it wasn't awful tho!... crook in my neck is however.. studied emmet syntax.. researched for <div id=facts>.. added img src +img caption +"blockquote" ...all on coda mobile ..add/commit/push was a non cypher.. day was lovely ..coney island beach nxt up?!... working they distractions & sidetracks & the <b>s</b>
+
+**Link(s) to work**: ... N/A 
+
+USE SAME TEMPLATE|GUIDELINE FROM DAY 0
+
+^^^ working. barely. breakfast was donuts. neck on mangled. grateful for it to have some mobility. lapstone+hammer. home w/ henny. jb+jroc. too on tinashe+q. nodded. woke up did some light css for page layout+composition. no commit 
