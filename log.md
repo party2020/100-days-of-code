@@ -45,7 +45,7 @@
 
 **Today's Progress**: ... freestyle more css /positioning
 
-**Thoughts**: working. barely. breakfast was salmon salad. my neck &my back on mangled. grateful {some mobility. neck rubs. salmon. salad} ... activity level too low. too much runnin. shots in the gym for the crown. late nites. another day requiring commitment.
+**Thoughts**: working. barely. breakfast was salmon salad. my neck &my back on mangled. grateful {some mobility. neck rubs. salmon. salad} ... activity level too low. have been coding on the bounce but... too much runnin. shots in the gym for the crown. late nites. another day requiring commitment. need to sit. still. at desk!
 
 **Link(s) to work**: ... N/A 
 
@@ -53,8 +53,8 @@
 ### Day 5: 6.24.20  
 ##### (wins day)
 
-**Today's Progress**: ... 
+**Today's Progress**: ... ftp|coda .. 
 
-**Thoughts**: working? at all .. breakfast was sahara work. my back now fuct. grateful {short stacks. breakfast in bed. lax job supervision lol} ... activity level ... shots in the gym ... syncing past few days of mobile coding via coda
+**Thoughts**: working? at all .. breakfast was sahara work. my back now fuct. grateful {short stacks. breakfast in bed. lax job supervision lol} ... activity level increased but still not prototypical ... syncing past few days of mobile coding via coda. mobile edits saved/added/committed/pushed ...still need postioning of sections, colorways, content.
 
-**Link(s) to work**: ... N/A 
+**Link(s) to work**: ... https://github.com/party2020/tributePage/blob/master/tribute.html
