@@ -55,7 +55,7 @@
 
 **Today's Progress**: ... ftp|coda .. 
 
-**Thoughts**: working? at all .. breakfast was sahara work. my back now fuct. grateful {short stacks. breakfast in bed. lax job supervision lol} ... activity level increased but still not prototypical ... syncing past few days of mobile coding via coda. mobile edits saved/added/committed/pushed ...still need postioning of sections, colorways, content.
+**Thoughts**: working? at all .. breakfast was sahara work. my back now fuct. grateful {short stacks. breakfast in bed. lax job supervision lol} ... data/ computer conversion ... activity level increased but still not prototypical ... syncing past few days of mobile coding via coda. mobile edits saved/added/committed/pushed ...still need postioning of sections, colorways, content.
 
 **Link(s) to work**: ... https://github.com/party2020/tributePage/blob/master/tribute.html
 
@@ -65,7 +65,7 @@
 
 **Today's Progress**: ... light content li .. 
 
-**Thoughts**: working? light .. breakfast was chkn chs stk. my shoulder blade now fuct. grateful {idk/ woke up w/o thinking of gratitude... all bad... not grateful for lack of mindfulness/ initiative/ grinding/ production/ school/institutions... grateful for brother +daughter(s) +h} ... range work sucked. activity level shitskii ... mobile coding via coda. mobile edits NOT saved/added/committed/pushed ...still need postioning of sections, colorways, more content.
+**Thoughts**: working? light .. breakfast was chkn chs stk. my shoulder blade now fuct. grateful {idk/ woke up w/o thinking of gratitude... all bad... not grateful for lack of mindfulness/ initiative/ grinding/ production/ school/institutions... grateful for brother +daughter(s) +h} ... range work sucked. reading robert f williams +price of the ticket ... activity level shitskii ... mobile coding via coda. mobile edits NOT saved/added/committed/pushed ...still need postioning of sections, colorways, more content.
 
 **Link(s) to work**: ... n/a
 
