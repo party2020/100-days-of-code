@@ -78,3 +78,13 @@
 **Thoughts**: rear ended rico /day all bad .. working? ehh .. breakfast was smoothie. my shoulder blade ehhh. grateful {idk/ woke up w/o thinking of gratitude... all bad... grateful for finding apple pencil ? for seaside ?} ... read price of the ticket ... activity level on seaside ... mobile coding via coda. mobile edits NOT saved/added/committed/pushed ...still playing w/ postioning of sections, colorways, more content. this day wasnt awful tho. or was it. drunk. migraine. dirty /dusty. not home. they snoring. everybody mad. sandy. just wish I was home. smmfh
 
 **Link(s) to work**: ... n/a
+
+
+### Day 8: 6.27.20  
+##### (SADDERday) truly
+
+**Today's Progress**: ... positioning /cleaning html /content .. 
+
+**Thoughts**: in a dirty /dusty room @ 39.9377, -74.0729 ... grateful {for: understanding never again! /waking /idfk beyond that /roaming?} .positioning via css (0355). .comtemplating a walk. .savage/salvage. .3rd world ghetto amerika. .smells of corona & necessity of masks. .thiefs theme.
+
+**Link(s) to work**: ... n/a
