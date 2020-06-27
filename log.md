@@ -70,3 +70,11 @@
 **Link(s) to work**: ... n/a
 
 
+### Day 7: 6.26.20  
+##### (friday) smh
+
+**Today's Progress**: ... light positioning /cleaning html .. 
+
+**Thoughts**: rear ended rico /day all bad .. working? ehh .. breakfast was smoothie. my shoulder blade ehhh. grateful {idk/ woke up w/o thinking of gratitude... all bad... grateful for finding apple pencil ? for seaside ?} ... read price of the ticket ... activity level on seaside ... mobile coding via coda. mobile edits NOT saved/added/committed/pushed ...still playing w/ postioning of sections, colorways, more content. this day wasnt awful tho. or was it. drunk. migraine. dirty /dusty. not home. they snoring. everybody mad. sandy. just wish I was home. smmfh
+
+**Link(s) to work**: ... n/a
