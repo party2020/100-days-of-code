@@ -25,7 +25,7 @@
 
 **Today's Progress**: ... not sure /goal (pre)- reading +site completion /actual (post)- site additions +reading +background
 
-**Thoughts**: grateful {soon to be daddy wu love the kids.beaches.$.safe.19.accts.$btc.investing.early mornings.late nites.lookin good.not cracking} ... exposure education empowerment ... code id="'iqra">#100.msced.physical.zen</code ...didnt code enough /beach day +pier jumping +boardwalking +jalapeño george clooney juice sipping /it wasn't awful tho!... crook in my neck is however.. studied emmet syntax.. researched for div id=facts.. added img src +img caption +"blockquote" ...all on coda mobile ..add/commit/push was a non cypher.. day was lovely ..coney island beach nxt up?!... working they distractions & sidetracks & the <b>s</b>
+**Thoughts**: grateful {soon to be daddy wu love the kids.beaches.$.safe.19.accts.$btc.investing.early mornings.late nites.lookin good.not cracking} ... exposure education empowerment ... code id="'iqra">#100.msced.physical.zen</code ...didnt code enough /beach day +pier jumping +boardwalking +jalapeño george clooney juice sipping /it wasn't awful tho!... crook in my neck is however.. studied emmet syntax.. researched for div id=facts.. added img src +img caption +"blockquote" ...all on coda mobile ..add/commit/push was a non cypher.. day was lovely ..coney island beach nxt up?!... working thru distractions & sidetracks & the <b>s</b>
 
 **Link(s) to work**: ... N/A 
 
@@ -45,17 +45,17 @@
 
 **Today's Progress**: ... freestyle more css /positioning
 
-**Thoughts**: working. barely. breakfast was salmon salad. my neck &my back on mangled. grateful {some mobility. neck rubs. salmon. salad} ... activity level too low. have been coding on the bounce but... too much runnin. shots in the gym for the crown. late nites. another day requiring commitment. need to sit. still. at desk!
+**Thoughts**: working. barely. breakfast was salmon salad. my neck &my back on mangled. grateful {some mobility. neck rubs. salmon. salad} ... activity level too low. have been coding on the bounce but... too much runnin. <b>shots</> in the gym for the crown. late nites. another day requiring commitment. need to sit. still. at desk!
 
 **Link(s) to work**: ... N/A 
 
 
 ### Day 5: 6.24.20  
-##### (wins day)
+##### (<h1>wins day</h1>)
 
 **Today's Progress**: ... ftp|coda .. 
 
-**Thoughts**: working? at all .. breakfast was sahara work. my back now fuct. grateful {short stacks. breakfast in bed. lax job supervision lol} ... data/ computer conversion ... activity level increased but still not prototypical ... syncing past few days of mobile coding via coda. mobile edits saved/added/committed/pushed ...still need postioning of sections, colorways, content.
+**Thoughts**: working? at all .. breakfast was sahara work. my back now fuct. grateful {short stacks. breakfast in bed. lax job supervision lol} ... data/ computer conversion ... activity level increased but still not prototypical ... syncing past few days of mobile coding via coda. mobile edits saved/added/committed/pushed ...still need postioning of sections, colorways, content. <h1>wins day</h1>
 
 **Link(s) to work**: ... https://github.com/party2020/tributePage/blob/master/tribute.html
 
@@ -86,5 +86,15 @@
 **Today's Progress**: ... positioning /cleaning html /content .. 
 
 **Thoughts**: in a dirty /dusty room @ 39.9377, -74.0729 ... grateful {for: understanding never again! /waking /idfk beyond that /roaming! /mornings +sunrises /(b)eaches} .positioning via css (0355). .comtemplating a walk. .savage/salvage. .3rd world ghetto amerika. .jersey shore for crackheads. .smells of corona & necessity of masks. .thiefs theme. .mornings was chadwick beach jersey shore & xtra strength tylenol. .when am i copping my wetsuit?... ..beach house.. ?? (musings @ 0548) ... early rising msced make some cream every day. .cream rises. like waves... surf!.. .putting work in. .positioning. .h never answers when I come at her wit the receipts. .long term ab-soul. .pitty pat +dirty henny killed me. .i owe the twins some paper. .scratched up bad /don't traumatize <b>ishes</b> re: water. 
+
+**Link(s) to work**: ... n/a
+
+
+### Day 9: 6.28.20  
+##### () 
+
+**Today's Progress**: ... PLAN :: positioning /cleaning html /content +COMMIT/ PUSH. 
+
+**Thoughts**: mornings was poptarts +tylenol. <h1>vicegrips</h1> ...'iqraa...
 
 **Link(s) to work**: ... n/a
