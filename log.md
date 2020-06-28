@@ -51,11 +51,11 @@
 
 
 ### Day 5: 6.24.20  
-##### (<h1>wins day</h1>)
+##### (<h6>wins day</h6>)
 
 **Today's Progress**: ... ftp|coda .. 
 
-**Thoughts**: working? at all .. breakfast was sahara work. my back now fuct. grateful {short stacks. breakfast in bed. lax job supervision lol} ... data/ computer conversion ... activity level increased but still not prototypical ... syncing past few days of mobile coding via coda. mobile edits saved/added/committed/pushed ...still need postioning of sections, colorways, content. <h1>wins day</h1>
+**Thoughts**: working? at all .. breakfast was sahara work. my back now fuct. grateful {short stacks. breakfast in bed. lax job supervision lol} ... data/ computer conversion ... activity level increased but still not prototypical ... syncing past few days of mobile coding via coda. mobile edits saved/added/committed/pushed ...still need postioning of sections, colorways, content. <h6>wins day</h6>
 
 **Link(s) to work**: ... https://github.com/party2020/tributePage/blob/master/tribute.html
 
@@ -95,6 +95,6 @@
 
 **Today's Progress**: ... PLAN :: positioning /cleaning html /content +COMMIT/ PUSH. 
 
-**Thoughts**: mornings was poptarts +tylenol. <h1>vicegrips</h1> ...'iqraa...
+**Thoughts**: mornings was poptarts +tylenol. <h6>vicegrips</h6> ...'iqraa...
 
 **Link(s) to work**: ... n/a
