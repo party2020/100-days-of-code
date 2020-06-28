@@ -81,10 +81,10 @@
 
 
 ### Day 8: 6.27.20  
-##### (SADDERday) truly
+##### (SADDERday) onnie 51
 
 **Today's Progress**: ... positioning /cleaning html /content .. 
 
-**Thoughts**: in a dirty /dusty room @ 39.9377, -74.0729 ... grateful {for: understanding never again! /waking /idfk beyond that /roaming! /mornings +sunrises /(b)eaches} .positioning via css (0355). .comtemplating a walk. .savage/salvage. .3rd world ghetto amerika. .smells of corona & necessity of masks. .thiefs theme. .mornings was chadwick beach jersey shore & xtra strength tylenol. .when am i copping my wetsuit?... ..beach house.. ?? (musings @ 0548) ... early rising msced make some cream every day. .cream rises. like waves... surf!..
+**Thoughts**: in a dirty /dusty room @ 39.9377, -74.0729 ... grateful {for: understanding never again! /waking /idfk beyond that /roaming! /mornings +sunrises /(b)eaches} .positioning via css (0355). .comtemplating a walk. .savage/salvage. .3rd world ghetto amerika. .smells of corona & necessity of masks. .thiefs theme. .mornings was chadwick beach jersey shore & xtra strength tylenol. .when am i copping my wetsuit?... ..beach house.. ?? (musings @ 0548) ... early rising msced make some cream every day. .cream rises. like waves... surf!.. .putting work in. .positioning. .h never answers when I come at her wit the receipts. .long term ab-soul. 
 
 **Link(s) to work**: ... n/a
