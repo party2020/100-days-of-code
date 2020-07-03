@@ -51,7 +51,7 @@
 
 
 ### Day 5: 6.24.20  
-##### (<h6>wins day</h6>)
+##### (wins day)
 
 **Today's Progress**: ... ftp|coda .. 
 
@@ -91,10 +91,50 @@
 
 
 ### Day 9: 6.28.20  
-##### () 
+##### (lazy sunday) 
 
 **Today's Progress**: ... PLAN :: positioning /cleaning html /content +COMMIT/ PUSH. 
 
-**Thoughts**: mornings was poptarts +tylenol. <h6>vicegrips</h6> ...'iqraa...
+**Thoughts**: mornings was poptarts +tylenol. vicegrips ...'iqraa... 2216::absolutely did nothing today.. reading robert f williams negroes w/ 🔫.. roaming /not even productively :: no mentors; tutorials; learning; insight :: just random roaming.. didn’t <code> msced or do sufuria work !this is not the way to get where you want.. where do I want to go.??.. i did fall back .. after a 2day run i needed a chill day... more work tho
+
+**Link(s) to work**: ... n/a
+
+
+### Day 10: 6.29.20  
+##### (agitation is a good thing. organization is a better thing. john e bruce grit) 
+
+**Today's Progress**: ... PLAN :: positioning /cleaning html /content +COMMIT/ PUSH. 
+
+**Thoughts**::0640 |github down. can’t sign in. can’t push |bit up. got up. finished book. mornings was sofas🛋  |ehhh long day |nonproductive nor conducive to the destination AGAIN |no git no emmet no sublime |kiss > fab no b ... buck +? bornday sids clasé azul ... crashing. burning. workin.on.struggling.
+
+**Link(s) to work**: ... n/a
+
+
+### Day 11: 6.30.20  
+##### (the people you {hire} is the company u built) 
+
+**Today's Progress**: ... positioning //content. 
+
+**Thoughts**::0748 ......❤️kfg |out early.. 2254::long day. slight work- adding contewnt +playing w/ layout. could prolly throw the tribute together fast. maybe. i should?.. want it a certain look tho... new mentors. protect blk women. ❤️kfg +esr... 🔫talk w/kg. grateful for my girls. & the black women in my life!
+
+**Link(s) to work**: ... n/a
+
+
+### Day 12: 7.1.20  
+##### (wins?day - whats important now day!) 
+
+**Today's Progress**: ... m i n i m a l
+
+**Thoughts**: </0744> sublime+add/commit/push. FINALLY ... work (pwd) heavy ... that work not that ... light!...lost in 2020: air pods/ key fob /shotties ... tighten up screwdriver ... smarten up nas ... back on thief theme ... that work requires doing /disciplin /dilligence ... daily!
+
+**Link(s) to work**: ... https://github.com/party2020/tributePage/blob/master/tribute.html
+
+
+### Day 13: 7.2.20  
+##### (copy. transform. combine /guru) 
+
+**Today's Progress**: ... background-color: transparent; 
+
+**Thoughts**: grateful for the ability to just begin again. & have these sources of information & inspiration. & nieces wit nice cribs & g44s. gotta keep going!!!
 
 **Link(s) to work**: ... n/a
